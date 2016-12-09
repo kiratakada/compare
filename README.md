@@ -1,5 +1,3 @@
-These applications accompany an article on AirPair.com comparing the Flask,
-Django, and Pyramid web frameworks.
+# DJANGO vs FLASK vs PYRAMID
 
-These snippets are licensed under the GPLv3 license, see the `LICENSE` file for
-details.
+this is comparison of flask django and pyramid
